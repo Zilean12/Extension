@@ -1,0 +1,77 @@
+/* General Styling */
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(145deg, #eef2f3, #ffffff);
+    color: #333;
+    overflow: hidden;
+    min-width: 300px;
+    min-height: 400px;
+  }
+  
+  /* Container */
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    background-color: #ffffff;
+    margin: 10px;
+  }
+  
+  /* Title */
+  .title {
+    font-size: 26px;
+    color: #4a90e2;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  /* Description */
+  .description {
+    font-size: 16px;
+    color: #6b7280;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Color Input */
+  .color-input {
+    width: 80%;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: inset 0px 3px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  /* Button */
+  .apply-btn {
+    background: #4a90e2;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .apply-btn:hover {
+    background: #357ab8;
+    transform: scale(1.05);
+  }
+  
+  /* Footer */
+  .footer {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #a0aec0;
+    text-align: center;
+  }
+  
