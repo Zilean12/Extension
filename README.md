@@ -44,7 +44,6 @@ Color Changer is a simple and visually appealing browser extension that allows y
 
 ---
 
-## Screenshots
 ### Popup Interface
 - **Gradient Background**: A modern and vibrant design.
 - **Large Color Picker**: Easy to interact with.
